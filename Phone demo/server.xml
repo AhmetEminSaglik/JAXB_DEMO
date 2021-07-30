@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:recordServer xmlns:ns2="Server">
+    <CallOperationList>
+        <call>
+            <PhoneCall>222</PhoneCall>
+            <PhoneDialed>333</PhoneDialed>
+            <connected>false</connected>
+        </call>
+    </CallOperationList>
+    <MessageList>
+        <message>
+            <phoneTexted>111</phoneTexted>
+            <phoneRecivedText>333</phoneRecivedText>
+            <message>Merhaba  ben : 111</message>
+        </message>
+    </MessageList>
+</ns2:recordServer>
